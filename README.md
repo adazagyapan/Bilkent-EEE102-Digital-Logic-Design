@@ -1,8 +1,6 @@
 # Bilkent-EEE102-Labs
 This is the repo of EEE102 labs and term project files for upcoming students to get help from! :) 
 
-P.S. For reference, the first lab and the term project final report's grade is 95, the rest of the documents' grade is 100.
-
 # Labs
 * [Lab 1](https://github.com/adazagyapan/Bilkent-EEE102-Digital-Logic-Design/tree/b8b4db8f1e934f783566973b60d4a61640132729/Lab%201)
 * [Lab 2](https://github.com/adazagyapan/Bilkent-EEE102-Digital-Logic-Design/tree/b8b4db8f1e934f783566973b60d4a61640132729/Lab%202)
